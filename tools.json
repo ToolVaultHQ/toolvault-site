@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Canva Pro",
+    "category": "Design",
+    "description": "Create stunning graphics, social posts, and marketing materials with drag-and-drop ease. Perfect for non-designers.",
+    "link": "https://www.canva.com",
+    "badge": "Editor's Choice"
+  },
+  {
+    "name": "Notion",
+    "category": "Productivity",
+    "description": "All-in-one workspace for notes, tasks, databases, and project management. Organize your entire business in one place.",
+    "link": "https://www.notion.so",
+    "badge": "Most Popular"
+  },
+  {
+    "name": "ChatGPT Plus",
+    "category": "AI Tools",
+    "description": "Write content, brainstorm ideas, and automate tasks with the most powerful AI assistant available today.",
+    "link": "https://chat.openai.com",
+    "badge": "Best AI"
+  }
+]
