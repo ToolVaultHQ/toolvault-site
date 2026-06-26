@@ -32,3 +32,16 @@ function loadTools() {
       console.error("Error loading tools:", error);
     });
 }
+function shareToolVault() {
+  const shareData = {
+    title: "ToolVault",
+    text: "Check out the best tools to grow your business! 🚀",
+    url: "https://toolvault-hq.netlify.app"
+  };
+  if (navigator.share) {
+    navigator.share(shareData);
+  } else {
+    navigator.clipboard.writeText("https://toolvault-hq.netlify.app");
+    alert("Link copied! Share it with your friends 💜");
+  }
+}
