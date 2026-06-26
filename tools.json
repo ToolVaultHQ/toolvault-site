@@ -1,23 +1,26 @@
 [
   {
     "name": "Canva Pro",
-    "category": "Design",
-    "description": "Create stunning graphics, social posts, and marketing materials with drag-and-drop ease. Perfect for non-designers.",
-    "link": "https://www.canva.com",
-    "badge": "Editor's Choice"
+    "description": "Design stunning graphics, social posts, and more with the #1 design tool for creators.",
+    "badge": "Most Popular",
+    "link": "#"
   },
   {
     "name": "Notion",
-    "category": "Productivity",
-    "description": "All-in-one workspace for notes, tasks, databases, and project management. Organize your entire business in one place.",
-    "link": "https://www.notion.so",
-    "badge": "Most Popular"
+    "description": "Organize your work, notes, and projects all in one powerful, flexible workspace.",
+    "badge": "Best for Productivity",
+    "link": "#"
   },
   {
     "name": "ChatGPT Plus",
-    "category": "AI Tools",
-    "description": "Write content, brainstorm ideas, and automate tasks with the most powerful AI assistant available today.",
-    "link": "https://chat.openai.com",
-    "badge": "Best AI"
+    "description": "Supercharge your business with AI-powered writing, ideas, and automation.",
+    "badge": "AI Powered",
+    "link": "#"
+  },
+  {
+    "name": "Systeme.io",
+    "description": "Build sales funnels, email campaigns, and online courses — all FREE to start. Perfect for entrepreneurs!",
+    "badge": "⭐ Editor's Choice",
+    "link": "https://systeme.io/?sa=sa02752453421ba40f46bf94890f7b4a606b296886"
   }
 ]
