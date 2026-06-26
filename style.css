@@ -197,3 +197,26 @@ h2 {
   .nav a { margin-left: 14px; font-size: 0.9rem; }
   h2 { font-size: 1.6rem; }
 }
+.share-section {
+  text-align: center;
+  padding: 30px 20px;
+  background: #f8f5ff;
+}
+.share-section p {
+  font-size: 1.1rem;
+  margin-bottom: 15px;
+  color: #4a2c6f;
+}
+.share-btn {
+  background: #7c3aed;
+  color: white;
+  border: none;
+  padding: 14px 32px;
+  font-size: 1.1rem;
+  border-radius: 30px;
+  cursor: pointer;
+  font-weight: bold;
+}
+.share-btn:hover {
+  background: #6929c4;
+}
